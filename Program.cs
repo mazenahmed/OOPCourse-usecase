@@ -27,6 +27,7 @@ namespace UseCase
 			WriteLine(mobile1.getVolume ());
 			WriteLine ();
 
+			//Polymorphic Lines
 			Device d;
 			d = mobile1;
 			WriteLine (d.getVolume ());
@@ -37,6 +38,7 @@ namespace UseCase
 			pc1.input ("Typing...!!");
 			WriteLine (pc1.output ());
 
+			//Polymorphic Lines
 			d = pc1;
 			WriteLine (d.getVolume ());
 			WriteLine ();

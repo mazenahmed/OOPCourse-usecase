@@ -7,8 +7,9 @@ namespace UseCase
 		public IInteractive getInstance(string s){
 			if (s.ToLower().Equals ("mobilephone"))
 				return new MobilePhone ();		
-			else 
+			else if (s.ToLower().Equals("pc"))
 				return new PC ();
+			return null;
 		}
 	}
 }
