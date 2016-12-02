@@ -1,0 +1,5 @@
+/home/mazen/UseCase/UseCase/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/mazen/UseCase/UseCase/bin/Debug/UseCase.exe.mdb
+/home/mazen/UseCase/UseCase/bin/Debug/UseCase.exe
+/home/mazen/UseCase/UseCase/obj/x86/Debug/UseCase.exe
+/home/mazen/UseCase/UseCase/obj/x86/Debug/UseCase.exe.mdb
